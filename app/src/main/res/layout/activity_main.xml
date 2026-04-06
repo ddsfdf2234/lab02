@@ -313,7 +313,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Цвет показывает оценку настроения (1-5)"
+            android:text="Цве показывает оценку настроения (1-5)"
             android:textSize="12sp"
             android:textColor="#757575"
             android:gravity="center"

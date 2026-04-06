@@ -153,7 +153,7 @@ class MainActivity : Activity() {
             6 -> "ПТ"
             7 -> "СБ"
             1 -> "ВС"
-            else -> "ПН"
+            else -> "П"
         }
     }
 
